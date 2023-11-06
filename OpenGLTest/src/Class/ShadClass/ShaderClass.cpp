@@ -92,7 +92,10 @@ if (!stream.is_open())
     return true;
 }
 
-
+/// <summary>
+/// OKOK
+/// </summary>
+/// <param name=""></param>
 void ShaderClass::debugShader(void)
 {
     std::cout << "DEUBG SHADER" << std::endl;
